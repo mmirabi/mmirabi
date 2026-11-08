@@ -1,16 +1,111 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mmirabi/mmirabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · mmirabi</sub></p>
+<h1>Mehdi Mirabi</h1>
+<h2>Product-minded developer</h2>
+<p>Full Stack Engineer · Laravel · Node.js · Vue.js · Next.js | Architecting Scalable SaaS, E-commerce &amp; Enterprise Systems</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Istanbul · Building at @mmirabi</sub></p>
+<p><a href="https://github.com/mmirabi">GitHub</a> &nbsp;·&nbsp; <a href="https://www.mehdimirabi.com">Website</a> &nbsp;·&nbsp; <a href="https://x.com/mmirabi">X</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/35462668?u=934648bce503ab458ec48816ecf0b1935e442b2a&amp;v=4" width="180" alt="Mehdi Mirabi GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
 
-Here are some ideas to get you started:
+<h2>What teams can evaluate quickly</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Product-minded developer · PHP</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>2 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>2,110 contributions · 160 active days</p></td>
+</tr>
+</table>
+
+<p><sub>Full Stack Engineer · Laravel · Node.js · Vue.js · Next.js | Architecting Scalable SaaS, E-commerce &amp; Enterprise Systems</sub></p>
+
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>2</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>2,110</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>3</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=mmirabi&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F35462668%3Fu%3D934648bce503ab458ec48816ecf0b1935e442b2a%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=mmirabi&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F35462668%3Fu%3D934648bce503ab458ec48816ecf0b1935e442b2a%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Mehdi Mirabi GitHub proof metrics" />
+</picture>
+</p>
+
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=mmirabi&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F35462668%3Fu%3D934648bce503ab458ec48816ecf0b1935e442b2a%26v%3D4&repos=mmirabi%2Fassets%2Cmmirabi%2Fcontract-metadata%2Cmmirabi%2Fdomain_analyzer%2Cmmirabi%2Fextra-share-iran&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=mmirabi&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F35462668%3Fu%3D934648bce503ab458ec48816ecf0b1935e442b2a%26v%3D4&repos=mmirabi%2Fassets%2Cmmirabi%2Fcontract-metadata%2Cmmirabi%2Fdomain_analyzer%2Cmmirabi%2Fextra-share-iran&v=recruiter-projects-1&mode=dark" width="100%" alt="Mehdi Mirabi selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/mmirabi/assets">assets</a></h3>
+<p>A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.</p>
+<p><sub>Go · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/mmirabi/assets">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/mmirabi/contract-metadata">contract-metadata</a></h3><p>A mapping of ethereum contract addresses to broadly accepted icons for those addresses.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/mmirabi/domain_analyzer">domain_analyzer</a></h3><p>Analyze the security of any domain by finding all the information possible. Made in python.</p><p><sub>Python · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/mmirabi/extra-share-iran">extra-share-iran</a></h3><p>Lightweight plugin that adds Bale, Soroush, and Eitaa share buttons to Xtra Theme posts and WooCommerce products, with full RTL support and custom SVG</p><p><sub>PHP · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=mmirabi&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F35462668%3Fu%3D934648bce503ab458ec48816ecf0b1935e442b2a%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=mmirabi&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F35462668%3Fu%3D934648bce503ab458ec48816ecf0b1935e442b2a%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Mehdi Mirabi technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="100%" align="center"><strong>PHP</strong><br /><sub>100% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=mmirabi&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F35462668%3Fu%3D934648bce503ab458ec48816ecf0b1935e442b2a%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=mmirabi&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F35462668%3Fu%3D934648bce503ab458ec48816ecf0b1935e442b2a%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Mehdi Mirabi contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/mmirabi">GitHub</a><br /><a href="https://www.mehdimirabi.com">Website</a><br /><a href="https://x.com/mmirabi">X</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Mehdi Mirabi · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
